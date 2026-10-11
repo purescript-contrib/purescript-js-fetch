@@ -4,6 +4,15 @@ Notable changes to this project are documented in this file. The format is based
 
 ## [Unreleased]
 
+## [v0.2.2](https://github.com/purescript-contrib/purescript-js-fetch/releases/tag/v0.2.2) - 2026-10-11
+
+Other improvements:
+
+- Migrate to registry-backed Spago, preserving published dependency ranges.
+- Update repository tooling and CI actions.
+
+## [v0.2.1](https://github.com/purescript-contrib/purescript-js-fetch/releases/tag/v0.2.1) - 2023-11-16
+
 Breaking changes:
 - Migrated from `web-promise` to `js-promise`
 
