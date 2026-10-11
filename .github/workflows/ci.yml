@@ -15,6 +15,7 @@ jobs:
       - uses: purescript-contrib/setup-purescript@main
         with:
           purescript: "unstable"
+          spago: "latest"
 
       - uses: actions/setup-node@v7
         with:
